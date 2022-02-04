@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactApp/static/css/main.6b52bc68.css",
+    "main.js": "/reactApp/static/js/main.099b63cd.js",
+    "static/media/marketing.jpg": "/reactApp/static/media/marketing.f629aa392c4ff105f747.jpg",
+    "static/media/app.jpeg": "/reactApp/static/media/app.8714f36598ad2ce812b5.jpeg",
+    "static/media/android.jpeg": "/reactApp/static/media/android.ee1d95083516dda0d669.jpeg",
+    "static/media/software.jpeg": "/reactApp/static/media/software.1cb4dc77f9fd741d63f4.jpeg",
+    "static/media/digital.jpeg": "/reactApp/static/media/digital.dad8270c838055c62dd3.jpeg",
+    "static/media/s1.jpg": "/reactApp/static/media/s1.8e51e67dff71d6464727.jpg",
+    "static/media/hero-img.png": "/reactApp/static/media/hero-img.53f1b5467e5095dc4126.png",
+    "static/media/img2.svg": "/reactApp/static/media/img2.d12e2a271e618bd9bc130b61d3930482.svg",
+    "index.html": "/reactApp/index.html",
+    "main.6b52bc68.css.map": "/reactApp/static/css/main.6b52bc68.css.map",
+    "main.099b63cd.js.map": "/reactApp/static/js/main.099b63cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b52bc68.css",
+    "static/js/main.099b63cd.js"
+  ]
+}
